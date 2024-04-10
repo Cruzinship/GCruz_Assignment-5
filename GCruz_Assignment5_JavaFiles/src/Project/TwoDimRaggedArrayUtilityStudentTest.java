@@ -1,3 +1,15 @@
+/* 
+
+ * Class: CMSC203 30339 
+ * Instructor: Grinberg 
+ * Description: Test TwoDimRaggedArraysUtility mehtods
+ * Due: 04/15/2024 
+ * Platform/compiler: Eclipse 
+ * I pledge that I have completed the programming assignment independently. 
+ * I have not copied the code from a student or any source.  
+ * I have not given my code to any student. 
+ *  Print your Name here: Gianpaulo Cruz 
+ */ 
 package Project;
 
 import static org.junit.Assert.assertEquals;
